@@ -1,0 +1,39 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+
+PS C:\Users\LENOVO> {"message":"Result of type teknologi news in CNN News",
+>> "total":100,
+>> "data":[{"title":"Akademisi Jawab Soal Mimpi Mahasiswa RI Berkarier di Luar Negeri",
+>> "link":"https://www.cnnindonesia.com/teknologi/20231109184441-199-1022185/akademisi-jawab-soal-mimpi-mahasiswa-ri-berkarier-di-luar-negeri",
+>> "contentSnippet":"Para dosen dan praktisi teknologi menjawab soal fenomena kengganan mahasiswa atau peneliti RI pulang dan malah bermimpi berkarier di luar negeri",
+>> "isoDate":"2023-11-09T12:14:15.000Z",
+>> "image":{"small:""https://akcdn.detik.net.id/visual/2023/11/09/dialog-panel-shaping-and-revolutionizing-indonesia-creative-industry-1_169.jpeg?w=360&q=90","large":"https://akcdn.detik.net.id/visual/2023/11/09/dialog-panel-shaping-and-revolutionizing-indonesia-creative-industry-1_169.jpeg?w=360&q=100"}}
+>> #
+>> #
+>> #
+>> "data_1":[{"title":"Grab Akui Pionir Kendaraan Listrik, Pangkas 10 Ribu Ton Emisi",
+>> "link":"https://www.cnnindonesia.com/teknologi/20231109182516-641-1022175/grab-akui-pionir-kendaraan-listrik-pangkas-10-ribu-ton-emisi",
+>> "contentSnippet":"Grab Indonesia mengungkap telah memangkas 10 ribu ton emisi karbon dari layanan penyediaan mobil listrik.",
+>> "isoDate":"2023-11-09T11:43:08.000Z"
+>> "image":{"small":"https://akcdn.detik.net.id/visual/2023/11/09/country-managing-director-grab-indonesia-neneng-goenadi-2_169.jpeg?w=360&q=90","large":"https://akcdn.detik.net.id/visual/2023/11/09/country-managing-director-grab-indonesia-neneng-goenadi-2_169.jpeg?w=360&q=100"}},
+>> #
+>> #
+>> #
+>> "data_2":[{"title":"Dirut BAKTI Kominfo Cerita Soal Keputusan Bangun Menara BTS 4G",
+>> "link":"https://www.cnnindonesia.com/teknologi/20231109165129-192-1022120/dirut-bakti-kominfo-cerita-soal-keputusan-bangun-menara-bts-4g",
+>> "contentSnippet":"Direktur Utama Badan Aksesibilitas Telekomunikasi dan Informasi (BAKTI) Kominfo Fadhilah Mathar menceritakan soal keputusan pemerintah membangun menara BTS 4G",
+>> "isoDate":"2023-11-09T11:21:49.000Z",
+>> "image":{"small":"https://akcdn.detik.net.id/visual/2023/11/09/dirut-bakti-kominfo-fadhila-matar-1_169.jpeg?w=360&q=90","large":"https://akcdn.detik.net.id/visual/2023/11/09/dirut-bakti-kominfo-fadhila-matar-1_169.jpeg?w=360&q=100"}}]
+>> #
+>> #
+>> #
+>> "data_3":{"title":"BAKTI Ungkap Angka-angka Menjanjikan Imbas Transformasi Digital",
+>> "link":"https://www.cnnindonesia.com/teknologi/20231109140132-185-1022006/bakti-ungkap-angka-angka-menjanjikan-imbas-transformasi-digital",
+>> "contentSnippet":"Direktur Utama BAKTI Kominfo Fadhilah Mathar mengatakan transformasi digital bisa membuat Compound Annual Growth Rate (CAGR) naik 1 persen.",
+>> "isoDate":"2023-11-09T11:14:44.000Z",
+>> "image":{"small":"https://akcdn.detik.net.id/visual/2023/11/09/dirut-bakti-kominfo-fadhila-matar_169.jpeg?w=360&q=90","large":"https://akcdn.detik.net.id/visual/2023/11/09/dirut-bakti-kominfo-fadhila-matar_169.jpeg?w=360&q=100"}},
+>> #
+>> #
+>> #
